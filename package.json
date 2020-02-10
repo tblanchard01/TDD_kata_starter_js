@@ -4,7 +4,10 @@
   "description": "",
   "main": "Array-Helpers.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "npm t -- --watch", 
+    "t:w": "npm t -- --watch"
+
   },
   "author": "",
   "license": "ISC",
