@@ -1,8 +1,7 @@
 {
-  "name": "array-helpers",
+  "name": "sandbox",
   "version": "1.0.0",
   "description": "",
-  "main": "Array-Helpers.js",
   "scripts": {
     "test": "jest",
     "test:watch": "npm t -- --watch", 
